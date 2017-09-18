@@ -1,7 +1,7 @@
 # browserify-as-a-service
 
 [![Build Status](https://travis-ci.org/jfhbrook/wzrd.in.png?branch=master)](https://travis-ci.org/jfhbrook/wzrd.in)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/umdfied/umdfied-cdn)
 #### Places
 
 * [fork me on github](https://github.com/jfhbrook/browserify-cdn)
